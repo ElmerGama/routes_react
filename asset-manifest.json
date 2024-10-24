@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/componentes_react/static/css/main.e6c13ad2.css",
-    "main.js": "/componentes_react/static/js/main.3e6d124b.js",
-    "static/js/453.d6d24ec4.chunk.js": "/componentes_react/static/js/453.d6d24ec4.chunk.js",
-    "index.html": "/componentes_react/index.html",
-    "main.e6c13ad2.css.map": "/componentes_react/static/css/main.e6c13ad2.css.map",
-    "main.3e6d124b.js.map": "/componentes_react/static/js/main.3e6d124b.js.map",
-    "453.d6d24ec4.chunk.js.map": "/componentes_react/static/js/453.d6d24ec4.chunk.js.map"
+    "main.css": "/ElmerGama/routes_react/static/css/main.e6c13ad2.css",
+    "main.js": "/ElmerGama/routes_react/static/js/main.ed80bad0.js",
+    "static/js/453.2b713a73.chunk.js": "/ElmerGama/routes_react/static/js/453.2b713a73.chunk.js",
+    "index.html": "/ElmerGama/routes_react/index.html",
+    "main.e6c13ad2.css.map": "/ElmerGama/routes_react/static/css/main.e6c13ad2.css.map",
+    "main.ed80bad0.js.map": "/ElmerGama/routes_react/static/js/main.ed80bad0.js.map",
+    "453.2b713a73.chunk.js.map": "/ElmerGama/routes_react/static/js/453.2b713a73.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.3e6d124b.js"
+    "static/js/main.ed80bad0.js"
   ]
 }
