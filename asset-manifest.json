@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ElmerGama/routes_react/static/css/main.e6c13ad2.css",
-    "main.js": "/ElmerGama/routes_react/static/js/main.ed80bad0.js",
-    "static/js/453.2b713a73.chunk.js": "/ElmerGama/routes_react/static/js/453.2b713a73.chunk.js",
-    "index.html": "/ElmerGama/routes_react/index.html",
-    "main.e6c13ad2.css.map": "/ElmerGama/routes_react/static/css/main.e6c13ad2.css.map",
-    "main.ed80bad0.js.map": "/ElmerGama/routes_react/static/js/main.ed80bad0.js.map",
-    "453.2b713a73.chunk.js.map": "/ElmerGama/routes_react/static/js/453.2b713a73.chunk.js.map"
+    "main.css": "/routes_react.io/static/css/main.080b34e4.css",
+    "main.js": "/routes_react.io/static/js/main.67d94621.js",
+    "static/js/453.2b713a73.chunk.js": "/routes_react.io/static/js/453.2b713a73.chunk.js",
+    "index.html": "/routes_react.io/index.html",
+    "main.080b34e4.css.map": "/routes_react.io/static/css/main.080b34e4.css.map",
+    "main.67d94621.js.map": "/routes_react.io/static/js/main.67d94621.js.map",
+    "453.2b713a73.chunk.js.map": "/routes_react.io/static/js/453.2b713a73.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.ed80bad0.js"
+    "static/css/main.080b34e4.css",
+    "static/js/main.67d94621.js"
   ]
 }
