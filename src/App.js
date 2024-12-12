@@ -7,26 +7,53 @@ import Contact from './components/Contact';
 const App = () => {
     return (
         <Router>
-            <nav>
-                <ul>
-                    <li>
-                        <Link to="/">Home</Link>
+            <nav style={styles.nav}>
+                <ul style={styles.ul}>
+                    <li style={styles.li}>
+                        <Link to="/" style={styles.link}>Inicio</Link>
                     </li>
-                    <li>
-                        <Link to="/about">About</Link>
+                    <li style={styles.li}>
+                        <Link to="/about" style={styles.link}>Acerca de</Link>
                     </li>
-                    <li>
-                        <Link to="/contact">Contact</Link>
+                    <li style={styles.li}>
+                        <Link to="/contact" style={styles.link}>Contacto</Link>
                     </li>
                 </ul>
             </nav>
-            <Routes>
-                <Route path="/" element={<Home />} />
-                <Route path="/about" element={<About />} />
-                <Route path="/contact" element={<Contact />} />
-            </Routes>
+            <div style={styles.container}>
+                <Routes>
+                    <Route path="/" element={<Home />} />
+                    <Route path="/about" element={<About />} />
+                    <Route path="/contact" element={<Contact />} />
+                </Routes>
+            </div>
         </Router>
     );
+};
+
+const styles = {
+    nav: {
+        backgroundColor: '#282c34',
+        padding: '1rem',
+    },
+    ul: {
+        listStyle: 'none',
+        display: 'flex',
+        justifyContent: 'center',
+        margin: 0,
+        padding: 0,
+    },
+    li: {
+        margin: '0 1rem',
+    },
+    link: {
+        color: '#61dafb',
+        textDecoration: 'none',
+        fontSize: '1.2rem',
+    },
+    container: {
+        padding: '2rem',
+    },
 };
 
 export default App;
